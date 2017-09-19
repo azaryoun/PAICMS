@@ -1,0 +1,57 @@
+{
+  "_from": "@angular/upgrade@4.4.1",
+  "_id": "@angular/upgrade@4.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-r+7BPqZlJXGB9RrV0OfnZWc6a+Q=",
+  "_location": "/@angular/upgrade",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@angular/upgrade@4.4.1",
+    "name": "@angular/upgrade",
+    "escapedName": "@angular%2fupgrade",
+    "scope": "@angular",
+    "rawSpec": "4.4.1",
+    "saveSpec": null,
+    "fetchSpec": "4.4.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@angular/upgrade/-/upgrade-4.4.1.tgz",
+  "_shasum": "afeec13ea665257181f51ad5d0e7e765673a6be4",
+  "_spec": "@angular/upgrade@4.4.1",
+  "_where": "C:\\Users\\kolani\\Desktop\\New folder\\ng2",
+  "author": {
+    "name": "angular"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "deprecated": false,
+  "description": "Angular - the library for easing update from v1 to v2",
+  "es2015": "./@angular/upgrade.js",
+  "homepage": "https://github.com/angular/angular#readme",
+  "license": "MIT",
+  "main": "./bundles/upgrade.umd.js",
+  "module": "./@angular/upgrade.es5.js",
+  "name": "@angular/upgrade",
+  "peerDependencies": {
+    "@angular/core": "4.4.1",
+    "@angular/compiler": "4.4.1",
+    "@angular/platform-browser": "4.4.1",
+    "@angular/platform-browser-dynamic": "4.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "typings": "./upgrade.d.ts",
+  "version": "4.4.1"
+}

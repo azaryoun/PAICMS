@@ -1,0 +1,1 @@
+{"version":3,"sources":["models/loginData.ts"],"names":["LoginData","email","password","this"],"mappings":"yIAAAA,UAAA,WACI,QAAAA,WAAmBC,MAAqBC,UAArBC,KAAAF,MAAAA,MAAqBE,KAAAD,SAAAA,SAC5C,MAAAF","file":"loginData.js","sourcesContent":["export class LoginData{\r\n    constructor(public email:string, public password:string){}\r\n}"]}

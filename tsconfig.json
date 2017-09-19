@@ -1,0 +1,23 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "system",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "removeComments": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "publish"
+  ],
+  "include": [
+    "develop"
+  ],
+  "types": [
+    "hammerjs"
+  ]
+}
