@@ -7,7 +7,7 @@ import {
   MdButtonModule, MdCheckboxModule, MdRadioModule,
   MdInputModule, MdIconModule, MdTableModule,
   MdPaginatorModule, MdSortModule, MdSelectModule, MdOptionModule,
-  MdTooltipModule,
+  MdTooltipModule
 
 } from '@angular/material';
 
